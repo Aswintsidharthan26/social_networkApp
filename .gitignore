@@ -1,0 +1,17 @@
+# Python 
+*.pyc 
+__pycache__/ 
+# Environment variables 
+.env 
+# Django stuff: 
+db.sqlite3 
+/media 
+# If you are using Postgres with Docker 
+postgres_data/ 
+# Logs 
+*.log 
+# Virtual environment 
+venv/ 
+env/ 
+.venv/ 
+# Python 
